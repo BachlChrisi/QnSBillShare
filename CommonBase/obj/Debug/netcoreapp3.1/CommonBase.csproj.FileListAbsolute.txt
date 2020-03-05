@@ -1,0 +1,16 @@
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+D:\4Klasse\C#\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb
+D:\Schule\4Klasse\CSharp\Generator\QnSBillShare\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
